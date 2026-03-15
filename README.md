@@ -19,8 +19,8 @@ Welcome to **Caption Crafter**, your smart AI assistant for generating meaningfu
 ## 💻 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (likely using React)
-- **Backend**: AI-based image captioning model (e.g., Python with Flask)
-- **Hosting**: Netlify (for frontend), possible use of cloud functions for backend
+- **Backend**: AI-based image captioning model (Python with Flask)
+- **Hosting**: Netlify (for frontend),
 
 ## 📦 How to Use
 
