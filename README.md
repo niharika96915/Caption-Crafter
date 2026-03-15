@@ -36,15 +36,6 @@ Welcome to **Caption Crafter**, your smart AI assistant for generating meaningfu
 - Image-Based Storytelling
 - Accessibility (Alt Text Generation)
 
-## 🛠️ Upcoming Features
-
-- 📄 Downloadable captions
-- 🎯 Caption styles (funny, emotional, informative)
-- 🌐 Multi-language support
-- 🔗 Share captions directly to social media
-
----
-
 **Craft captions that speak volumes – with just one click.**
 
 
